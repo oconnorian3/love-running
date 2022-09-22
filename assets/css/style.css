@@ -171,3 +171,9 @@ hr {
 .right-about-heading p {
     text-align: right;
 }
+
+#welcome {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 200%;
+}
